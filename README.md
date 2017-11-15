@@ -23,6 +23,7 @@ environment information).
 9. Write an OpenMP program to show how first private clause works.(Factorial program)
 10. Write an OpenMP program to multiply two matrices A & B and find the resultant matrix C
 11. Write an OpenMP program to find prime numbers (split)
+
 #MPI
 1. Write a MPI program to calculate and print the value of PI.
 2. Write a MPI program to send the message from a process whose rank=3 to all other remaining
