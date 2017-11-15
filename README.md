@@ -1,11 +1,13 @@
 # hpc
-CUDA programs
+#CUDA programs
 1. Write a CUDA program to print the message “Hello World” and demonstrate threads by varying
 BLOCK_WIDTH to different sizes.
 2. Write a CUDA program for adding two vectors.
 3. Write a CUDA program to multiply two matrices.
 4. Write a CUDA program to demonstrate different types of memory.
-Open MP
+
+
+#Open MP
 1. Write an OpenMP program to perform addition of two arrays A & B store the result in the array
 C
 2. Write an OpenMP program which performs C=A+B & D=A-B in separate blocks/sections where
@@ -21,7 +23,7 @@ environment information).
 9. Write an OpenMP program to show how first private clause works.(Factorial program)
 10. Write an OpenMP program to multiply two matrices A & B and find the resultant matrix C
 11. Write an OpenMP program to find prime numbers (split)
-MPI
+#MPI
 1. Write a MPI program to calculate and print the value of PI.
 2. Write a MPI program to send the message from a process whose rank=3 to all other remaining
 processes.
